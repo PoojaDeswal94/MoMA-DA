@@ -1,4 +1,4 @@
-# Jolimoi-MoMA
+# MoMA
 
 ## Data Analysis for The Museum of Modern Art (MoMA) Collection
 
